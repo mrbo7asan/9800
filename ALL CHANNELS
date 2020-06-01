@@ -293,12 +293,6 @@ http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/16930
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/16929
 #EXTINF:-1 tvg-id="bein10max.fr" tvg-name="beIN Sports MAX 10 FHD FR" tvg-logo="" group-title="VIP",beIN Sports MAX 10 FHD FR
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/16928
-#EXTINF:-1 tvg-id="" tvg-name="ATG Live SE" tvg-logo="http://pici.life/SE/ATG_live.jpg" group-title="VIP",ATG Live SE
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14243
-#EXTINF:-1 tvg-id="" tvg-name="C More Junior VIP FI" tvg-logo="" group-title="VIP",C More Junior VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17131
-#EXTINF:-1 tvg-id="" tvg-name="C More Juniori VIP FI" tvg-logo="" group-title="VIP",C More Juniori VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17114
 #EXTINF:-1 tvg-id="" tvg-name="C More Sport 1 VIP FI" tvg-logo="" group-title="VIP",C More Sport 1 VIP FI
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17135
 #EXTINF:-1 tvg-id="" tvg-name="C More Sport 1 FHD VIP FI" tvg-logo="" group-title="VIP",C More Sport 1 FHD VIP FI
@@ -307,20 +301,8 @@ http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17115
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17134
 #EXTINF:-1 tvg-id="" tvg-name="C More Sport HD VIP FI" tvg-logo="" group-title="VIP",C More Sport HD VIP FI
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17110
-#EXTINF:-1 tvg-id="" tvg-name="C More Max HD VIP FI" tvg-logo="" group-title="VIP",C More Max HD VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17125
-#EXTINF:-1 tvg-id="" tvg-name="Jim TV VIP FI" tvg-logo="" group-title="VIP",Jim TV VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17132
-#EXTINF:-1 tvg-id="" tvg-name="MTV 3 FHD VIP FI" tvg-logo="" group-title="VIP",MTV 3 FHD VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17127
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD VIP SC" tvg-logo="" group-title="VIP",Nat Geo Wild HD VIP SC
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17013
-#EXTINF:-1 tvg-id="" tvg-name="Nelonen VIP FI" tvg-logo="" group-title="VIP",Nelonen VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17136
-#EXTINF:-1 tvg-id="" tvg-name="Sub TV VIP FI" tvg-logo="" group-title="VIP",Sub TV VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17133
-#EXTINF:-1 tvg-id="" tvg-name="Viasat 4 VIP SC" tvg-logo="" group-title="VIP",Viasat 4 VIP SC
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17014
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Explore VIP SC" tvg-logo="" group-title="VIP",Viasat Explore VIP SC
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17077
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll HD VIP SC" tvg-logo="" group-title="VIP",Viasat Fotboll HD VIP SC
@@ -329,14 +311,6 @@ http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17015
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17122
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Nature VIP NO" tvg-logo="" group-title="VIP",Viasat Nature VIP NO
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17103
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Series VIP NO" tvg-logo="" group-title="VIP",Viasat Series VIP NO
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17101
-#EXTINF:-1 tvg-id="" tvg-name="Yle TV 1 FHD VIP FI" tvg-logo="" group-title="VIP",Yle TV 1 FHD VIP FI
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/17129
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel HD US VIP" tvg-logo="" group-title="VIP",Cooking Channel HD US VIP
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18958
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX Business HD US VIP" tvg-logo="" group-title="VIP",FOX Business HD US VIP
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18957
 #EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="Fox Sports Arizona HD US VIP" tvg-logo="" group-title="VIP",Fox Sports Arizona HD US VIP
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18953
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports College Pacific HD US VIP" tvg-logo="" group-title="VIP",Fox Sports College Pacific HD US VIP
@@ -361,33 +335,7 @@ http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18937
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18940
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Wisconsin HD US VIP" tvg-logo="" group-title="VIP",Fox Sports Wisconsin HD US VIP
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18939
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="The Weather Channel HD US VIP" tvg-logo="" group-title="VIP",The Weather Channel HD US VIP
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18956
-#EXTINF:-1 tvg-id="univision.us" tvg-name="Univision HD US VIP" tvg-logo="" group-title="VIP",Univision HD US VIP
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/18959
 #EXTINF:-1 tvg-id="" tvg-name="Beout Sports 1 HD AR" tvg-logo="" group-title="VIP",Beout Sports 1 HD AR
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/38509
-#EXTINF:-1 tvg-id="nflsundayticket705.us" tvg-name="NFL SUNDAY TICKET 705 US" tvg-logo="http://pici.life/US/Nfl-sunday-ticket.png" group-title="United States",NFL SUNDAY TICKET 705 US
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620745
-#EXTINF:-1 tvg-id="wgnamerica.us" tvg-name="WGN America HD US" tvg-logo="" group-title="VIP",WGN America HD US
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620791
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK HD US" tvg-logo="" group-title="VIP",WWE NETWORK HD US
 http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620793
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="Yes Network FHD US" tvg-logo="" group-title="VIP",Yes Network FHD US
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620794
-#EXTINF:-1 tvg-id="" tvg-name="Fury vs Wilder 2 PPV FHD VIP" tvg-logo="" group-title="VIP",Fury vs Wilder 2 PPV FHD VIP
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/671788
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 1 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620810
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 2 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620809
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 3 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620808
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 4 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620807
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 5 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 5 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620806
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 6 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 6 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620805
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 7 FHD DE [Live During Events Only]" tvg-logo="" group-title="VIP",Telekom Eishockey 7 FHD DE [Live During Events Only]
-http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/620804
